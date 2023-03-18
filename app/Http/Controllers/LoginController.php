@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 class LoginController extends Controller
 {
     /**
@@ -10,13 +9,38 @@ class LoginController extends Controller
      *
      * @return void
      */
-    public function store(Request){
+    public function store()
+    {
         // ROMMEL
     }
 
+    /**
+     * Undocumented function
+     *
+     * @return void
+     */
+    public function update()
+    {
+        //
+    }
 
-    public function update();
-
+    /**
+     * Undocumented function
+     *
+     * @return void
+     */
     public function view()
+    {
+        //
+    }
 
+    /**
+     * Undocumented function
+     *
+     * @return void
+     */
+    public function create()
+    {
+        //
+    }
 }
