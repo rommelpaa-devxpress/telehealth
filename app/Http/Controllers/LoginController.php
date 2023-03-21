@@ -47,6 +47,13 @@ class LoginController extends Controller
     {
         //PAUL
     }
-
+    public function create()
+    {
+        //
+    }
+    public function delete()
+    {
+        //feature user ALDRIN
+    }
 
 }
