@@ -56,4 +56,10 @@ class LoginController extends Controller
         //feature user ALDRIN
     }
 
+        public function store()
+    {
+        // ANGEL
+    }
+
+
 }
